@@ -6,9 +6,8 @@ This Microsoft Azure template deploys a single Shadow client which will connect 
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fshadow-on-ubuntu%2Fazuredeploy.json" target="_blank"><img src="http://armviz.io/visualizebutton.png"/></a>
 
 For more information,
-https://shadowproject.io
-https://bitcointalk.org/index.php?topic=745352
-
+https://shadowproject.io <br>
+https://bitcointalk.org/index.php?topic=745352 <br>
 # Template Parameters
 
 When you click the Deploy to Azure icon above, you need to specify the following template parameters:
